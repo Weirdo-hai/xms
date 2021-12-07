@@ -5,5 +5,6 @@ public class aaa {
 		String s = "aaa";
         String a = "sfs";
         System.out.println();
+	String sfs = "";
     }
 }
